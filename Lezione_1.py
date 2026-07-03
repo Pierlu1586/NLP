@@ -3,7 +3,7 @@
 """
 Created on Fri Jul  3 12:36:13 2026
 
-@author: jdk
+@author: Pierluigi M.
 """
 
 # Esercizi sulle stringhe
